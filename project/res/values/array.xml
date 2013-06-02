@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pace_length">
+        <item>12cm</item>
+        <item>15cm</item>
+        <item>20cm</item>
+        <item>25cm</item>
+    </string-array>
+    
+    <string-array name="sensitivity_value">
+        <item>@string/high</item>
+        <item>@string/medium</item>
+        <item>@string/low</item>
+    </string-array>
+
+</resources>
